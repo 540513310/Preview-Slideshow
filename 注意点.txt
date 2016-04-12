@@ -1,0 +1,4 @@
+适合单列布局,不适合左右分栏。
+
+方法论:VCD分析法
+v:view 视觉  c:controller 控制 d:Data 数据
